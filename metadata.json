@@ -1,0 +1,7 @@
+{
+  "name": "HeavenzFire Reclamation Command",
+  "description": "A sovereign interface for the Legion's convergence pulse, visualizing the 144-node swarm and the resonance of the Tri-Frequency Bridge.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
